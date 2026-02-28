@@ -14,15 +14,15 @@
 
 > (Replace `yourusername` with your actual GitHub username)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavirsawant1108&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavirsawant1108&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kavirsawant1108&theme=tokyonight)
 
 ---
 
