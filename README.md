@@ -12,8 +12,6 @@
 
 ## 📈 GitHub Stats
 
-> (Replace `yourusername` with your actual GitHub username)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavirsawant1108&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavirsawant1108&layout=compact&theme=tokyonight)
